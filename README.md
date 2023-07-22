@@ -1,7 +1,7 @@
 
 # Foundry Fund Me
 
-This contract allow multiple Players to participate and send some ETH and one winner will be chosen at random. After a specified time has passed, the winning Eths will be sent. we use solidity as language and Foundry as Framework.
+This is a crowd sourcing app! 
 
 # Getting Started
 
